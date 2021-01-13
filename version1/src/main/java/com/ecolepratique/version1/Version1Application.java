@@ -8,8 +8,6 @@ public class Version1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Version1Application.class, args);
-		// Modification 1
-		System.out.println("Modification 1");
 	}
 
 }
